@@ -201,6 +201,11 @@ ol {
   margin: 0 auto;
 }
 
+.content__list-container {
+  position: relative;
+  width: 100%;
+}
+
 .content__list {
   display: flex;
   flex-direction: column;
